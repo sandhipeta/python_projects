@@ -1,6 +1,6 @@
 # Student Marks Calculator (Tkinter GUI)
 
-## 📌 Project Description
+##  Project Description
 
 This is a simple **GUI (Graphical User Interface)** application built using **Python Tkinter**.
 
@@ -16,14 +16,14 @@ The result is displayed instantly in the application window.
 
 ---
 
-## 🖥️ Technologies Used
+##  Technologies Used
 
 * Python
 * Tkinter (Python GUI library)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 student_marks_calculator.py
@@ -32,7 +32,7 @@ README.md
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User enters:
 
@@ -54,7 +54,7 @@ README.md
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Install Python
 
@@ -79,7 +79,7 @@ python student_marks_calculator.py
 
 ---
 
-## 🧪 Example Output
+##  Example Output
 
 ```
 Name: Siva
@@ -90,7 +90,7 @@ Result: Pass
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 This project helps beginners learn:
 
@@ -103,7 +103,7 @@ This project helps beginners learn:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 You can enhance this project by adding:
 
@@ -115,7 +115,7 @@ You can enhance this project by adding:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Siva Kumar
 
