@@ -16,8 +16,8 @@ My goal is to build a strong foundation in Python by practicing daily and writin
 
 ### Topics
 - [x] Variables & Data Types
-- [ ] Input / Output
-- [ ] Conditional statements (if-else)
+- [x] Input / Output
+- [x] Conditional statements (if-else)
 - [ ] Loops (for, while)
 - [ ] Functions
 
