@@ -18,8 +18,8 @@ My goal is to build a strong foundation in Python by practicing daily and writin
 - [x] Variables & Data Types
 - [x] Input / Output
 - [x] Conditional statements (if-else)
-- [ ] Loops (for, while)
-- [ ] Functions
+- [x] Loops (for, while)
+- [x] Functions
 
 ### Practice
 - [ ] Number Guessing Game
