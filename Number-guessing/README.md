@@ -75,3 +75,49 @@ while count != 0:
     count -= 1
 
 print(count)
+
+▶️ How to Run the Project
+Install Python (if not installed)
+Download or clone the repository
+Open terminal or command prompt
+Run the program:
+python guessing_game.py
+🎮 Example Output
+Hello World! Welcome to the game
+Number has been generated!!
+You have 4 chances to guess the number
+
+Guess the number: 5
+The number is greater than 5
+
+Guess the number: 8
+The number is less than 8
+
+Guess the number: 7
+Yay! That's right. You won!
+Your score is: 20
+📚 Learning Outcomes
+
+After completing this project, you will understand:
+
+How to generate random numbers
+How to use loops effectively
+How conditional statements work
+How to create simple logic-based games
+How scoring systems work
+🔮 Future Improvements
+
+You can improve this project by adding:
+
+Difficulty levels (Easy, Medium, Hard)
+GUI version using Tkinter
+High score tracking
+Multiplayer mode
+Web version using Flask
+🤝 Contributing
+
+Feel free to fork this project and improve it.
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
